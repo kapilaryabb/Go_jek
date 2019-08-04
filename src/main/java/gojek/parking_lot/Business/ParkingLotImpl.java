@@ -4,8 +4,8 @@ import java.io.File;
 import java.io.FileNotFoundException;
 import java.util.Scanner;
 
-import gojeck.parkinglot.data.Car;
-import gojeck.parkinglot.data.Commands;
+import gojek.parking_lot.data.Car;
+import gojek.parking_lot.data.Commands;
 
 public class ParkingLotImpl {
 }
