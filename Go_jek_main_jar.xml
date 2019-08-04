@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Go_jek.main:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Go_jek_main_jar</output-path>
+    <root id="archive" name="Go_jek.main.jar">
+      <element id="module-output" name="Go_jek.main" />
+    </root>
+  </artifact>
+</component>

@@ -1,0 +1,16 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="ParkingLotMain" type="Application" factoryName="Application" nameIsGenerated="true">
+    <option name="MAIN_CLASS_NAME" value="gojek.parking_lot.Business.ParkingLotMain" />
+    <module name="Go_jek.main" />
+    <option name="PROGRAM_PARAMETERS" value="$PROJECT_DIR$/file_input.txt" />
+    <extension name="coverage">
+      <pattern>
+        <option name="PATTERN" value="gojek.parking_lot.Business.*" />
+        <option name="ENABLED" value="true" />
+      </pattern>
+    </extension>
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
