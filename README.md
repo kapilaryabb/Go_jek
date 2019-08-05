@@ -2,9 +2,9 @@
 Parking lot project
 
 The project can be run with the below commands 
-1. ./parking_lot.sh <input_filepath>  
+1. ./parking_lot <input_filepath>  
    The inputs commands are expected and taken from the file specified
-2. ./parking_lot.sh 
+2. ./parking_lot
    This will start the program in interactive mode
    The allowed inputs are 
    create_parking_lot <no_of_slots>
