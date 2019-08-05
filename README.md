@@ -1,6 +1,8 @@
 # gojek-parkinglot
 Parking lot project
+
 for running this project gradle and java is needed
+
 extract code in /Documents/github folder
 The project can be run with the below commands 
 1. ./parking_lot <input_filepath>  
